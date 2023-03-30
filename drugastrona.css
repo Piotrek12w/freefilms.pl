@@ -1,0 +1,44 @@
+.html, body{
+    margin: 0;
+    padding: 0;
+    font-family: Lato;
+    background: #ebebeb;
+    text-align: center;
+}
+
+#menu{
+    background: #fff;
+}
+
+#menu a {
+    padding: 20px 25px;
+    text-decoration: none;
+    color: #111;
+    display: inline-block;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+#menu a {
+    color: blueviolet;
+    text-decoration: none;
+    transition: color 1s;
+}
+
+#menu a:hover {
+    text-decoration: underline;
+    color: deepskyblue;
+}
+
+.filmy {
+    position: relative;
+    left: -650px;
+    bottom: 10px;
+}
+
+h1 {
+    border-bottom: solid 5px;
+}
+
+/*650*/
+
