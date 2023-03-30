@@ -1,0 +1,23 @@
+
+ h1 {
+    text-align: center;
+ }
+
+ .Bajka {
+    position: absolute;
+    left: 160px;
+    border: 15px solid #000000ca;
+ }
+
+ .Pdw {
+    
+        background-color: #ffffff00;
+        height: 523px;
+        width: 160px;
+        border:5px solid #111111;
+        position: absolute;
+        left: 1290px;
+        bottom: 110px;
+        color: rgb(0, 0, 0);
+        text-decoration: underline;
+ }
